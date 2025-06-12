@@ -1,0 +1,16 @@
+
+{
+  "name": "Teka-Teki Hewan",
+  "short_name": "TekaHewan",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff8dc",
+  "description": "Game Teka-Teki tentang Hewan",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
